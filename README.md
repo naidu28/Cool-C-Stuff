@@ -1,4 +1,4 @@
-Cool-C-Stuff
+Zelda-Triforce-Animation
 ============
 
-Cool stuff I made in C.
+Some random cool stuff I made in C for GBA.
